@@ -1,5 +1,3 @@
-# modern-javascript
-
 ##How to start the web server:
 
 ###1. Get the code from GitHub
