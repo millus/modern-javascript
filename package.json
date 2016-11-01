@@ -1,0 +1,24 @@
+{
+  "name": "modern-javascript",
+  "version": "1.0.0",
+  "description": "Learning REST at Nerdschool",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millus/modern-javascript.git"
+  },
+  "keywords": [
+    "rest",
+    "javascript",
+    "nerdschool"
+  ],
+  "author": "Millus & Kake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millus/modern-javascript/issues"
+  },
+  "homepage": "https://github.com/millus/modern-javascript#readme"
+}
